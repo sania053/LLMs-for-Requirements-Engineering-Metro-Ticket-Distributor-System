@@ -1,4 +1,4 @@
-# GenAI for Requirements Engineering – Metro Ticket Distributor System
+# LLMs for Requirements Engineering – Metro Ticket Distributor System
 
 ## 📌 Overview
 This project applies **Generative AI** to automate and enhance **Requirements Engineering** for a metro ticket distributor system.  
